@@ -1,0 +1,2 @@
+# strat
+first git bash 
